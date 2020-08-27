@@ -1,0 +1,17 @@
+body {
+    background: var(--teste-color) ;
+}
+
+.page-success {
+    background-color: black;
+    text-align: center;
+    font-size: 31px;
+    margin-top: 20%;
+}
+
+#teste {
+    color: green;
+    width: 100px;
+    height: 100px;
+
+}
